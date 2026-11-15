@@ -8,7 +8,7 @@
 ### Selected work
 
 <p>
-  <a href="https://koza.click"><img src="assets/cards/koza-v3.gif" width="49%" alt="01 koza.click — short links, no tracking" /></a>
+  <a href="https://koza.click"><img src="assets/cards/koza-v4.gif" width="49%" alt="01 koza.click — short links, no tracking" /></a>
   <a href="https://box.koza.click"><img src="assets/cards/box-v3.gif" width="49%" alt="02 box.koza.click — peer-to-peer file transfer, nothing stored" /></a>
   <a href="https://foxify.cc"><img src="assets/cards/foxify-v3.gif" width="49%" alt="03 foxify.cc — VPN, Telegram mini-app" /></a>
   <img src="assets/cards/petus-v3.gif" width="49%" alt="04 ПЕТУС.РУ — social network" />
