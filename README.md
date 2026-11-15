@@ -7,22 +7,15 @@
 
 ### Selected work
 
-<img src="assets/works.gif" align="right" width="36%" alt="selected works: 01 koza.click, 02 box.koza.click, 03 foxify.cc, 04 ПЕТУС.РУ, 05 spark" />
+<p>
+  <a href="https://koza.click"><img src="assets/cards/koza.gif" width="49%" alt="01 koza.click — short links, no tracking" /></a>
+  <a href="https://box.koza.click"><img src="assets/cards/box.gif" width="49%" alt="02 box.koza.click — peer-to-peer file transfer, nothing stored" /></a>
+  <a href="https://foxify.cc"><img src="assets/cards/foxify.gif" width="49%" alt="03 foxify.cc — VPN, Telegram mini-app" /></a>
+  <img src="assets/cards/petus.gif" width="49%" alt="04 ПЕТУС.РУ — social network" />
+  <a href="https://github.com/AcelateOrg/Spark"><img src="assets/cards/spark.gif" width="98.6%" alt="05 spark — game engine for AI-written games" /></a>
+</p>
 
-`01` &nbsp;**[koza.click](https://koza.click)** · <sub>[repo](https://github.com/dimskoff/koza)</sub><br/>
-<sub>Short links, zero strings. No account, no tracking. Self-hostable — one JSON file, `docker compose up`.</sub>
-
-`02` &nbsp;**[box.koza.click](https://box.koza.click)**<br/>
-<sub>Files that travel straight. Peer-to-peer transfer in the browser — nothing stored on the server.</sub>
-
-`03` &nbsp;**[foxify.cc](https://foxify.cc)**<br/>
-<sub>VPN service. Traffic encryption and a stable connection — at home and on mobile. Telegram mini-app.</sub>
-
-`04` &nbsp;**ПЕТУС.РУ**<br/>
-<sub>Social network: feed, messages, «Кадры», music and a dictionary of absurd phrases.</sub>
-
-`05` &nbsp;**[Spark](https://github.com/AcelateOrg/Spark)**<br/>
-<sub>A code-first game engine built for AI-written games. Rust + wgpu core, game code in Luau, native executables.</sub>
+<sub>koza is open source — <a href="https://github.com/dimskoff/koza">github.com/dimskoff/koza</a> · one JSON file, <code>docker compose up</code>.</sub>
 
 <details>
 <summary><b>Minecraft / OpenComputers</b></summary>
