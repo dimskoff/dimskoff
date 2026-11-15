@@ -1,11 +1,6 @@
 <p align="center">
   <img src="assets/reel.gif" width="100%" alt="dimskoff — selected work: koza.click, box.koza.click, foxify.cc, petus.ru, spark" />
-</p>
-
-<h3 align="center">dimskoff</h3>
-<p align="center">
-  I build products end to end — from the server to the last pixel.<br/>
-  <sub>Novosibirsk</sub>
+  <img src="assets/header.png" width="100%" alt="dimskoff — I build products end to end, from the server to the last pixel. Novosibirsk." />
 </p>
 
 <br/>
