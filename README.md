@@ -7,7 +7,7 @@
 
 ### Selected work
 
-<img src="assets/projects.gif" align="right" width="46%" alt="koza.click → box.koza.click → foxify.cc → petus.ru → spark" />
+<img src="assets/works.gif" align="right" width="36%" alt="selected works: 01 koza.click, 02 box.koza.click, 03 foxify.cc, 04 ПЕТУС.РУ, 05 spark" />
 
 `01` &nbsp;**[koza.click](https://koza.click)** · <sub>[repo](https://github.com/dimskoff/koza)</sub><br/>
 <sub>Short links, zero strings. No account, no tracking. Self-hostable — one JSON file, `docker compose up`.</sub>
@@ -23,8 +23,6 @@
 
 `05` &nbsp;**[Spark](https://github.com/AcelateOrg/Spark)**<br/>
 <sub>A code-first game engine built for AI-written games. Rust + wgpu core, game code in Luau, native executables.</sub>
-
-<br clear="right"/>
 
 <details>
 <summary><b>Minecraft / OpenComputers</b></summary>
